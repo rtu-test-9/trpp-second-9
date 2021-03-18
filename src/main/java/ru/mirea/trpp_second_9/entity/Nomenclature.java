@@ -5,7 +5,7 @@ import com.opencsv.bean.CsvBindByName;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-
+import java.math.BigDecimal;
 
 /** Сущность Номенклатуры. */
 @Getter
